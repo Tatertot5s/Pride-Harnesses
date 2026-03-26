@@ -1,9 +1,9 @@
 {
 	"pack": {
-		"pack_format": 70,
+		"pack_format": 84,
 		"min_format": 63,
-		"max_format": 75,
-		"supported_formats": [63, 75],
+		"max_format": 84,
+		"supported_formats": [63, 84],
 		"description": [
 				{"text":"Adds "},
 				{"text":"","extra":[{"text":"P","color":"#FF0000"},{"text":"r","color":"#F34200"},{"text":"i","color":"#E78300"},{"text":"d","color":"#E3C100"},{"text":"e","color":"#DFFF00"},{"text":"-","color":"#95FF02"},{"text":"C","color":"#4AFF05"},{"text":"o","color":"#00FF07"},{"text":"l","color":"#00D683"},{"text":"o","color":"#00ACFF"},{"text":"r","color":"#3056FF"},{"text":"s","color":"#6000FF"}]},
